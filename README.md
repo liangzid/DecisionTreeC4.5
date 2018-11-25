@@ -1,5 +1,5 @@
 # 这是什么？
-[!](https://github.com/liangzid/DecisionTreeC4.5/edit/master/dt.png)
+![Decision Tree](https://github.com/liangzid/DecisionTreeC4.5/edit/master/dt.png)
 
 这是课程《大数据分析》的结课作业，利用C4.5决策树算法完成对某一个数据集的分类。
 我选用的数据集是：[记录链接模式匹配数据集](http://archive.ics.uci.edu/ml/machine-learning-databases/00210/)，来源于UCI。有关于该数据集的详细信息可以访问：[这里](http://archive.ics.uci.edu/ml/machine-learning-databases/00210/documentation)
